@@ -7,3 +7,5 @@ test('Check footer', async ({ page }) => {
     expect(text).toContain('© 2024 - Software Engineering and DevOps regular exam');
   });
   
+
+  //fixed

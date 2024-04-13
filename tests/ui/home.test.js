@@ -7,3 +7,4 @@ test('Check home page', async ({ page }) => {
     expect(text).toContain('Cookbook');  
   });
   
+  //fixed

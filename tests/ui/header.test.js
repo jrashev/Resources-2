@@ -7,3 +7,5 @@ test('Check header', async ({ page }) => {
     expect(text).toBe('Home');
   });
   
+
+  //fixed
