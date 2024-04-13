@@ -6,3 +6,5 @@ test('Check cookbook page', async ({ page }) => {
     expect(list).toBeTruthy();
   });
   
+
+  //fixed

@@ -13,3 +13,5 @@ test('Check about page test', async ({ page }) => {
   const text = await heading.textContent();
   expect(text).toBe('This is the Regular exam for Software Engineering and DevOps course @ SoftUni');
 });
+
+//fixed
